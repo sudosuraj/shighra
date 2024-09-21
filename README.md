@@ -28,7 +28,7 @@ Before using shighra, ensure your system meets the following requirements:
    Clone or download the shighra script to your desired directory, recommanded:
    
    ```bash
-   sudo -S mkdir /opt/shighra && cd /otp/shighra
+   sudo -S mkdir /opt/shighra && sudo cd /otp/shighra
    git clone https://github.com/sudosuraj/shighra.git 
    echo alias shighra="python3 /opt/shighra/shighra.py" > ~/.bashrc
    sudo chmod +x fastmap.sh
