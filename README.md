@@ -1,4 +1,4 @@
-# shighra
+![SHIGHRA](https://github.com/user-attachments/assets/49fd5471-4ce1-484a-9221-75a1c125b584)
 A powerful and fastest port scanning approach for CTFs and network vulnerability assessments.
 **shighra** is a powerful port scanning tool that combines speed and precision. It simultaneously executes three advanced scanning commands (masscan, nmap, and fastscan) in a beautifully organized terminal layout, unveiling vulnerabilities in your network with unparalleled efficiency.
 
@@ -28,9 +28,9 @@ Before using shighra, ensure your system meets the following requirements:
    Clone or download the shighra script to your desired directory, recommanded:
    
    ```bash
-   git clone https://github.com/sudosuraj/shighra /opt/shigra
+   git clone https://github.com/sudosuraj/shighra /opt/shighra
    cd /opt/shighra
-   chmod +x shigra.sh
-   echo alias shigra="/opt/shigra/shigra.sh" > ~/.bashrc  
+   chmod +x shighra.sh
+   echo alias shighra="/opt/shighra/shighra.sh" > ~/.bashrc  
    ```
 
