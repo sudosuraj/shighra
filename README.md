@@ -30,6 +30,8 @@ Before using shighra, ensure your system meets the following requirements:
    ```bash
    git clone https://github.com/sudosuraj/shighra /opt/shighra
    cd /opt/shighra
-   echo alias shighra="python3 /opt/shighra/shighra.py" > ~/.bashrc  
+   echo alias shighra="python3 /opt/shighra/shighra.py" > ~/.bashrc
+   sudo chmod +x fastmap.sh
+   echo alias fastmap="/opt/shighra/fastmap.sh" > ~/.bashrc
    ```
 
