@@ -35,3 +35,6 @@ Before using shighra, ensure your system meets the following requirements:
    cd -
    ```
 
+   ## The Future?
+   The approach is likely to be shifted in Go lang.
+
